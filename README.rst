@@ -31,13 +31,15 @@ Galaxy requires Python 2.7 To check your python version, run:
 .. code:: console
 
     $ python -V
-    Python 2.7.3
+    Python 2.7.4
 
 Start Galaxy:
 
 .. code:: console
 
     $ sh run.sh
+    or
+    $ ./run.sh
 
 Once Galaxy completes startup, you should be able to view Galaxy in your
 browser at:
